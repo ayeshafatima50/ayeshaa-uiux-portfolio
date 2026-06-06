@@ -4,16 +4,20 @@ UI/UX Designer | Figma | Canva
 # About Me
 Aspiring UI/UX Designer with passion for creating intuitive digital experiences. I focus on understanding user needs and translating them into clean, accessible designs. Learning Figma and design principles daily. Let's build something great together!
 
-# My Projects
+# Projects
 
-# Project Name 1
-![Project 1](salon-app.png)
-Short 2 line description: Is project mein maine kya kiya aur kis problem ka solution banaya.
+# 1. Salon Booking App UI Design
+![Salon App Home](Screenshots salon-home.png/salon-home.png)
+Designed mobile app screens for salon appointments in Figma. Focused on fast booking and clean layout.
 
-### 2. Project Name 2  
-![Project 2](image-ka-naam.png)
-Short 2 line description: Ye dashboard design tha Figma mein banaya hua.
+# 2. Glassmorphism UI Kit
+![Glass Login](glass-login.png)
+Designed login and dashboard screens using glassmorphism blur effects.
 
-## Contact Me
+# 3. Fitness Tracker App  
+![Fitness Home](fitness-home.png)
+Designed workout tracking screens with progress charts and exercise library.
+
+#Contact Me
 📧 Email: ayeshaafatima50@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/ayesha-fatima-67223a283/
